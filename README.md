@@ -6,7 +6,7 @@ NJUPTFreeExams 是**南京邮电大学**计算机学院学生建立的一个GitH
 
 # 如何使用？
 
-现在仅整理出 [`计算机科学与技术`](https://njuptfreeexams.github.io/NJUPT_CS_Free_Exams/) 专业的相关资料，`信息安全` 专业和 `软件工程` 专业资料正在整理中，欢迎贡献！
+现在仅整理出 [`计算机科学与技术`](https://njuptfreeexams.github.io/NJUPT-CS-Free-Exams/) , [`通信工程`](https://njuptfreeexams.github.io/NJUPT-TE-Free-Exams/) , [`自动化`](https://njuptfreeexams.github.io/NJUPT_AUTO_StudyMaterials/) 等专业, [`管理学院`](https://njuptfreeexams.github.io/NJUPT-Managing-Free-Exams/) 和 [`通识课`](https://njuptfreeexams.github.io/NJUPT-General-Free-Exams/) 的相关资料，`信息安全` 专业和 `软件工程` 专业资料正在整理中，欢迎贡献！
 
 您可以直接进入相关专业的项目页面，点击目录右上角的 `Clone or Download` 按钮可以直接下载项目 zip 压缩包。
 
