@@ -1,7 +1,7 @@
 # NJUPTFreeExams-IssueGuide
 
 > 创建：2021-08-29 @toulzx  
-> 修改：2021-08-29  
+> 修改：2021-08-30  
 >
 > 本篇主要介绍如何向本项目提交 Issue。
 

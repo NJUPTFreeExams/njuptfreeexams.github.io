@@ -17,10 +17,13 @@
   - [计算机科学与技术（CST）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams)
   - [软件工程（SE）](https://github.com/NJUPTFreeExams/NJUPT-SE-Free-Exams)
   - [信息安全（InfoSec）](https://github.com/NJUPTFreeExams/NJUPT-InfoSec-Free-Exams)
-- **[通信与信息工程学院](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)**
+
+- **[通信与信息工程学院](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams)**
   - [通信工程（TE）](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams)
+
 - **[自动化、人工智能学院](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)**
   - [自动化（AUTO）](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)
+
 - **[管理学院（Manage）](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams)**
 
 各 repo 也会根据需要设置 `README.md` ，请读者自行查阅。
@@ -31,9 +34,8 @@
 
 ## 如何贡献？
 
-Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
+Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！a
 
 如果你想参与贡献（PR），参见：[`Upload Guide`](./UploadGuide.md).
 
 如果你想提 issue，参见：[`Issue Guide`](./IssueGuide.md).
-
