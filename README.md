@@ -24,7 +24,7 @@
 - **[自动化、人工智能学院](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)**
   - [自动化（AUTO）](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)
 
-- **[材料与科学工程学院（IAM）](https://github.com/NJUPTFreeExams/NJUPT-IAM-FREE-Exams)**
+- **[材料科学与工程学院（IAM）](https://github.com/NJUPTFreeExams/NJUPT-IAM-FREE-Exams)**
 
 - **[管理学院（Manage）](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams)**
 
