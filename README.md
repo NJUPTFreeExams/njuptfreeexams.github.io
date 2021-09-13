@@ -1,6 +1,6 @@
 # NJUPT-Free-Exams-README
 
-## 这是什么
+## 这是什么？
 
 [NJUPTFreeExams](https://github.com/NJUPTFreeExams) 是由**南京邮电大学**计算机学院学生建立的一个GitHub组织，旨在收集校内历年考试资料造福后人。
 
@@ -10,8 +10,8 @@
 
 本项目将 **通识类课程** 资源存放在 ***[`NJUPT-General-Free-Exams`](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams)*** 进行统一维护。
 
-其余 **专业类课程** 资源分别存放在对应专业/学院的 repo 中，分别进行维护。  
-以下是部分专业/学院的 repo：
+其余 **专业类课程** 资源分别存放在对应学院/专业的 repo 中，分别进行维护。  
+以下是部分学院/专业的 repo：
 
 - **[计软网安院（CS）](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)**
   - [计算机科学与技术（CST）](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams)
@@ -24,6 +24,8 @@
 - **[自动化、人工智能学院](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)**
   - [自动化（AUTO）](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)
 
+- **[材料与科学工程学院（IAM）](https://github.com/NJUPTFreeExams/NJUPT-IAM-FREE-Exams)**
+
 - **[管理学院（Manage）](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams)**
 
 各 repo 也会根据需要设置 `README.md` ，请读者自行查阅。
@@ -34,7 +36,7 @@
 
 ## 如何贡献？
 
-Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！a
+Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 如果你想参与贡献（PR），参见：[`Upload Guide`](./UploadGuide.md).
 
