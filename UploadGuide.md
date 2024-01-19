@@ -67,7 +67,7 @@ GitHub 全方位支持 Markdown 语法，最常见的是 repo 中的 README 文�
 
 6. `Pull Requests`（页面标题下方） -> **`New pull request`**，你 `commit` 后 repo 的内容和主分支的差异会在此展示。
 
-7. **`Create pull request`**，并请**清楚描述** PR 内容，格式可参考:[`NJUPT-General-Free-Exams #34`](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/pull/34) 或 [`NJUPT-CS-Free-Exams #22`](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/pull/22)
+7. **`Create pull request`**，并请**清楚描述** PR 内容，格式可参考:[`NJUPT-General-Free-Exams #34`](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams/pull/34) 或 [`NJUPT-CST-Free-Exams #22`](https://github.com/NJUPTFreeExams/NJUPT-CST-Free-Exams/pull/22)
 
 
 ### 通过 `git` 工具上传本地资料
